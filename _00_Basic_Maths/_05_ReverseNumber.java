@@ -1,3 +1,13 @@
+// Program to reverse a number
+
+// DIFFERENT APPROACHES:
+// 1. Using a while loop to extract digits and build the reversed number.TIME COMPLEXITY: O(d) where d is the number of digits in n, SPACE COMPLEXITY: O(1)
+// 2. Using String manipulation (convert to string, reverse, convert back). TIME COMPLEXITY: O(d) where d is the number of digits in n, SPACE COMPLEXITY: O(d)
+// 3. Using recursion to reverse the number. TIME COMPLEXITY: O(d) where d is the number of digits in N , SPACE COMPLEXITY: O(d) due to recursion stack
+// 4. Using mathematical operations to reverse the number without loops or strings (not practical but possible). TIME COMPLEXITY: O(d) where d is the number of digits in n, SPACE COMPLEXITY: O(1)
+// 5. Using an array to store digits and then construct the reversed number. TIME COMPLEXITY: O(d) where d is the number of digits in n , SPACE COMPLEXITY: O(d)
+
+
 public class _05_ReverseNumber {
   public static int reverseNumber(int n) {
     int reversed = 0;
@@ -8,6 +18,8 @@ public class _05_ReverseNumber {
     }
     return reversed;
   }
+
+  
 
   public static void main(String[] args) {
     // test cases

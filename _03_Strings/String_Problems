@@ -1,0 +1,43 @@
+---------------------------IMPORTANT PROBLEMS BASED ON STRINGS IN JAVA-----------------------------------------------
+
+1. Reverse a String
+2. Check for Palindrome
+3. Count Vowels and Consonants
+4. Find the First Non-Repeated Character
+5. String Compression
+6. Longest Substring Without Repeating Characters
+7. Anagram Check
+8. String Rotation
+9. Count Occurrences of a Substring
+10. Find the Missing Character in a String
+
+
+-------------------------------TOP TEN MEDIUM LEVEL PROBLEMS BASED ON STRINGS IN JAVA---------------------------------------------
+
+1. Longest Palindromic Substring
+1. Reverse a String — Easy — LeetCode 344  
+2. Valid Palindrome — Easy — LeetCode 125  
+3. Longest Palindromic Substring — Medium — LeetCode 5  
+4. Longest Substring Without Repeating Characters — Medium — LeetCode 3  
+5. Find First Non-Repeating Character — Easy — LeetCode 387  
+6. String Compression — Easy — LeetCode 443  
+7. Valid Anagram — Easy — LeetCode 242  
+8. Group Anagrams — Medium — LeetCode 49  
+9. Implement strStr() (Substring search) — Easy — LeetCode 28  
+10. Find All Anagrams in a String — Medium — LeetCode 438  
+11. Permutation in String (check if s2 contains permutation of s1) — Medium — LeetCode 567  
+12. Repeated Substring Pattern — Easy — LeetCode 459  
+13. Longest Common Prefix — Easy — LeetCode 14  
+14. Palindromic Substrings (count) — Medium — LeetCode 647  
+15. String to Integer (atoi) — Medium — LeetCode 8  
+16. Decode Ways (DP on strings) — Medium — LeetCode 91  
+17. Isomorphic Strings — Easy — LeetCode 205  
+18. Word Pattern — Easy — LeetCode 290  
+19. Count Occurrences of a Substring / Find Substring Occurrences — GFG practice problem (search articles)  
+20. Check String Rotation — GFG practice problem (classic rotation check)
+
+
+Focus on implementing these in Java using: two-pointer, sliding window, hashing (maps/arrays), Trie (rare), DP and expand-around-center for palindromes. Prioritize mastering sliding-window, hashing, and two-pointer techniques.
+
+
+
